@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Nike",
+        "imageURL": "https://assets.ajio.com/medias/sys_master/root/20220205/wH4U/61fd7eaef997dd03e2c19345/-473Wx593H-469098285-white-MODEL.jpg",
+        "description": ""
+    },
+    {
+        "id": 2,
+        "title": "Adidas",
+        "imageURL": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/87ee1358c1cc4532b5b5af29013af139_9366/Streetball_III_Shoes_Black_FZ5811_01_standard.jpg",
+        "description": ""
+    },
+    {
+        "id": 3,
+        "title": "New Balance",
+        "imageURL": "https://thecrosstrainer.co.za/cdn/shop/products/new-balance-ct302-38746228752629.jpg?v=1674046953",
+        "description": ""
+    },
+    {
+        "id": 4,
+        "title": "Asics",
+        "imageURL": "https://static.lvengine.net/xtreme2020/Imgs/produtos/018/62/68/1202A024-100.jpg",
+        "description": ""
+    },
+    {
+        "id": 5,
+        "title": "Converse",
+        "imageURL": "https://www.converse.in/media/catalog/product/3/j/3j231c_01_1.jpg?auto=webp&format=pjpg&width=640&height=800&fit=cover",
+        "description": ""
+    },
+    {
+        "id": 6,
+        "title": "Puma",
+        "imageURL": "https://img.tatacliq.com/images/i8/1348Wx2000H/MP000000014602814_1348Wx2000H_202209230717061.jpeg",
+        "description": ""
+    }
+]
